@@ -14,7 +14,7 @@ Used in mods such as:
 
 ## Fork Purpose
 
-This fork is intended to modernize and expand Elden-X for use in a broader SDK and Game Mod Framework effort. The long-term goal is to provide reusable infrastructure for ELDEN RING integration, including support for systems such as the Virtual Record System.
+This fork is intended to modernize and expand Elden-X as part of a broader SDK and Game Mod Framework effort. The long-term goal is to provide reusable infrastructure for ELDEN RING integration, including support for systems such as the Virtual Record System.
 
 The Game Mod Framework itself is intended to remain game-agnostic. ELDEN RING-specific offsets, structures, and implementation details will remain within Elden-X or related ELDEN RING integration components rather than the framework core.
 
