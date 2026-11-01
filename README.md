@@ -1,6 +1,6 @@
 # Elden-X
 
-This repository is a fork of Elden-X by Thomas J. Clark.
+This repository is a fork of elden-x by Thomas J. Clark.
 
 ## Original Purpose
 
